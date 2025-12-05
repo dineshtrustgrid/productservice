@@ -11,6 +11,7 @@ class ProductServiceApplicationTests {
 
 		System.out.print("Test");
 		System.out.print("Test1");
+		System.out.print("Test2");
 	}
 	
 	
