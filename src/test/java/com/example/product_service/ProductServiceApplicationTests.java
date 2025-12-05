@@ -8,6 +8,7 @@ class ProductServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
+		system.out.print("printing statement");
 	}
 
 }
