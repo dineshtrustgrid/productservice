@@ -8,10 +8,14 @@ class ProductServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 		System.out.print("Test");
 		System.out.print("Test1");
 	}
 	
-	}
+	
 
 	
+
+}
+
